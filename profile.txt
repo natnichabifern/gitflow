@@ -1,0 +1,4 @@
+name: Natnicha Meechouy
+nickname : Bifern
+age: 20
+#my profile
